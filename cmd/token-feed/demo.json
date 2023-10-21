@@ -1,0 +1,11 @@
+{
+  "host": "",
+  "port": 9092,
+  "tokenRPC": "http://127.0.0.1:44619/ext/bc/tFnTC5MSu4ZiKcHGA4UvCmHBo2yrLGZqQw2DppuitHJnjJRsV",
+  "recipient": "token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp",
+  "feedSize": 100,
+  "minFee": 10000000,
+  "feeDelta": 10000000,
+  "messagesPerEpoch": 10,
+  "targetDurationPerEpoch": 300
+}

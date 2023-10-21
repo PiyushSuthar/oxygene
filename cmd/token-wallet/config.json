@@ -1,0 +1,6 @@
+{
+  "tokenRPC": "http://127.0.0.1:39973/ext/bc/tFnTC5MSu4ZiKcHGA4UvCmHBo2yrLGZqQw2DppuitHJnjJRsV",
+  "faucetRPC": "http://127.0.0.1:9091",
+  "searchCores": 4,
+  "feedRPC": "http://127.0.0.1:9092"
+}

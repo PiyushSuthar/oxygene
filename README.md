@@ -51,6 +51,18 @@ _`chain import-anr` connects to the Avalanche Network Runner server running in
 the background and pulls the URIs of all nodes tracking each chain you
 created._
 
+### Adding Alias
+To add an alias, you can run the following command from this location:
+```bash
+./build/token-cli alias add <alias> <address>
+```
+
+When you are done, the output should look something like this:
+```
+database: .token-cli
+Alias <alias> added for address <address>
+```
+
 ### Mint and Trade
 #### Step 1: Create Your Asset
 First up, let's create our own asset. You can do so by running the following
@@ -60,7 +72,7 @@ command from this location:
 ```
 
 When you are done, the output should look something like this:
-```
+```bash
 database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
